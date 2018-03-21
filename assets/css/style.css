@@ -1,0 +1,164 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+	background: url(../images/graphPaper.png);
+}
+
+/*Background colors*/
+.bg-white{
+	background: #fff;
+}
+.bg-grey{
+	background: grey;
+}
+
+.navbar {
+   background:  rgba(113, 173, 241, 0.986) !important;
+}
+/*end of background colors*/
+
+/*Text Colors*/
+/* .navbar-brand{
+	width: 40
+} */
+/* 
+.slideshow { 
+    width: 300px;
+    position: absolute;   
+    top: 20px;
+    right: 10px;  
+
+} */
+.text-header{
+	color:  #fff !important;
+	/*background: #4aaaa5 !important; */
+	background: #1524aecf;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 26px;
+}
+.text-teal{
+	color:  #1524aecf;
+	font-family: 'Work Sans', sans-serif;
+}
+.text-white{
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+}
+/*end of text colors*/
+
+h4 {
+	border: none;
+}
+/*Padding Options*/
+.down-padding{
+	padding-bottom: 30px;
+}
+.top-bottom-padding{
+	padding: 15px 0px;
+	margin-top: 5px;
+}
+.panel-padding{
+	padding: 0px 20px 15px 20px;
+}
+/*end of Padding options*/
+
+/*Connect with me aside related*/
+.icon{
+	width: 45px;
+	height: 45px;
+}
+/*end of connect with me*/
+
+.photo{
+	width: 300px;
+	height: 300px;
+}
+/*Portfolio section related*/
+.port{
+	width: 250px;
+	height: 200px;
+	margin: 5px;
+	display: inline-block;
+}
+.img1{
+	background: url(../images/psychicgame.png);
+}
+.img2{
+	background: url(../images/bikecollector.png);
+}
+.img3{
+	background: url(../images/budgettracker.png);
+}
+.img4{
+	background: url(../images/techtriviamob.png);
+}
+.img5{
+	background: url(../images/gifazoidmob.png);
+}
+.img6{
+	background: url(../images/node1liri.png);
+}
+.img7{
+	background: url(../images/nodemysqlbam.png);
+}
+.img8{
+	background: url(../images/mvcburger.png);
+}
+.btn-teal{
+	width: 250px;
+	margin-top: 150px;
+	background: #1524aecf; 
+	border: 1px solid  #1524aecf;
+	color: #fff;
+}
+/*end of Portfolio section*/
+
+/*Navbar related*/
+.navbar-brand:hover{
+	color: #fff !important;
+	background:  rgba(113, 173, 241, 0.986) !important; 
+}
+/*end of navbar*/
+
+/*Footer related*/
+.teal-border{
+	border-top: 3px solid   #1524aecf;
+	border-bottom: 3px solid   #1524aecf;
+	width: 200px;
+	margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: auto;
+	margin-left: auto;
+	background: url(../images/graphPaper.png);
+}
+/*end of footer*/
+
+/*font sizes*/
+.font-size-regular{
+	font-size: 16px; 
+}
+/*end of font sizes*/
+
+/*Contact section related*/
+.full-width{
+	width: 100%;
+}
+.submit-btn{
+	background:  #1524aecf;;
+	width: 100px;
+	color: #fff;
+}
+
+ .panel-footer{
+    height:135px; 
+	background-color: rgba(113, 173, 241, 0.986) !important; 
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
+#contactSubhead {
+	 color: black;
+}
+
