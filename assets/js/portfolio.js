@@ -13,4 +13,4 @@ function volgendefoto() {
 		image.src = images[currentPos];
 }
 
-setInterval(volgendefoto, 3000);
+setInterval(volgendefoto, 8000);

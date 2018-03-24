@@ -14,6 +14,10 @@ body{
 .navbar {
    background:  rgba(113, 173, 241, 0.986) !important;
 }
+
+.navbar-nav {
+	color: white;
+}
 /*end of background colors*/
 
 /*Text Colors*/
@@ -43,6 +47,10 @@ body{
 	color: white;
 	font-family: 'Work Sans', sans-serif;
 }
+a {
+	color: #333 !important;
+	font-size: 120%;
+} 
 /*end of text colors*/
 
 h4 {
@@ -76,8 +84,9 @@ h4 {
 .port{
 	width: 250px;
 	height: 200px;
-	margin: 5px;
+	margin: 10px;
 	display: inline-block;
+	border: solid 2px #333;
 }
 .img1{
 	background: url(../images/psychicgame.png);
@@ -104,11 +113,11 @@ h4 {
 	background: url(../images/mvcburger.png);
 }
 .btn-teal{
-	width: 250px;
+	width: 248px;
 	margin-top: 150px;
 	background: #1524aecf; 
-	border: 1px solid  #1524aecf;
-	color: #fff;
+    border: 1px solid  #1524aecf; 
+	color: #fff !important;
 }
 /*end of Portfolio section*/
 
